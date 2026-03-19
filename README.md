@@ -22,7 +22,8 @@ Input:
 https://exampleURL1.com
 
 Output:
-Extension: .com
+
+Extension: .com/
 Website name: exampleURL1
 
 ## Skills Demonstrated
