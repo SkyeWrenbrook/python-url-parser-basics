@@ -18,7 +18,7 @@ URL parsing is a foundational skill in cybersecurity. It is used in:
 
 ## Example
 
-Input:
+Input: /
 https://exampleURL1.com
 
 Output:
