@@ -23,7 +23,7 @@ https://exampleURL1.com
 
 Output:
 
-Extension: .com/
+Extension: .com n/
 Website name: exampleURL1
 
 ## Skills Demonstrated
